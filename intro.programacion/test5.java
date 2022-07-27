@@ -21,6 +21,7 @@ public class test5 {
         credito.setNombre("Dario");
         credito.setTelefono(2235061018L);
         credito.setCredito(15000);
+
         System.out.printf("\n%s, tiene: %d anios.\n", credito.getNombre(), credito.getEdad());
         System.out.printf("\nEl telefono de %s es: %d.\n", credito.getNombre(), credito.getTelefono());
         System.out.printf("\n%s, tiene: $%.2f de credito disponible.\n", credito.getNombre(), credito.getCredito());
