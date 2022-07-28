@@ -9,7 +9,7 @@ Recordatorio: Los tipos de datos más comunes son int, long, double, boolean, St
  */
 
 
-public class Main {
+public class ej01 {
     public static void main(String[] args) {
 
         int numero = 28;
